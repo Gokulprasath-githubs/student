@@ -1,0 +1,175 @@
+[
+  {
+    "rollNo": "CS101",
+    "name": "Aarav Sharma",
+    "gender": "Male",
+    "dob": "2004-05-14",
+    "bloodGroup": "O+",
+    "email": "aarav.sharma@student.edu",
+    "phone": "+91 98765 43210",
+    "department": "Computer Science & Engineering",
+    "degree": "B.Tech",
+    "batch": "2022 - 2026",
+    "semester": "6th Semester",
+    "cgpa": 9.15,
+    "attendance": 94.5,
+    "status": "Active",
+    "mentor": "Dr. Sunita Rao",
+    "guardian": {
+      "name": "Rajesh Sharma",
+      "relation": "Father",
+      "phone": "+91 98765 00001"
+    },
+    "address": "Flat 304, Green Heights, Tech Park Road, Bengaluru, Karnataka",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aarav",
+    "courses": [
+      { "code": "CS601", "name": "Distributed Systems", "credits": 4, "grade": "A+", "attendance": 96 },
+      { "code": "CS602", "name": "Machine Learning", "credits": 4, "grade": "O", "attendance": 95 },
+      { "code": "CS603", "name": "Cloud Computing & DevOps", "credits": 3, "grade": "A", "attendance": 92 },
+      { "code": "CS604", "name": "Network Security & Cryptography", "credits": 3, "grade": "A+", "attendance": 93 },
+      { "code": "CS605", "name": "Software Engineering Lab", "credits": 2, "grade": "O", "attendance": 98 }
+    ],
+    "achievements": [
+      "1st Prize in Hackathon 2024",
+      "Published research paper on Edge AI",
+      "Dean's Merit List - Sem 4 & 5"
+    ]
+  },
+  {
+    "rollNo": "CS102",
+    "name": "Priya Patel",
+    "gender": "Female",
+    "dob": "2004-09-22",
+    "bloodGroup": "B+",
+    "email": "priya.patel@student.edu",
+    "phone": "+91 98765 43211",
+    "department": "Computer Science & Engineering",
+    "degree": "B.Tech",
+    "batch": "2022 - 2026",
+    "semester": "6th Semester",
+    "cgpa": 8.78,
+    "attendance": 91.2,
+    "status": "Active",
+    "mentor": "Dr. Sunita Rao",
+    "guardian": {
+      "name": "Kirit Patel",
+      "relation": "Father",
+      "phone": "+91 98765 00002"
+    },
+    "address": "42, Shanti Niketan, SG Highway, Ahmedabad, Gujarat",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya",
+    "courses": [
+      { "code": "CS601", "name": "Distributed Systems", "credits": 4, "grade": "A", "attendance": 90 },
+      { "code": "CS602", "name": "Machine Learning", "credits": 4, "grade": "A+", "attendance": 93 },
+      { "code": "CS603", "name": "Cloud Computing & DevOps", "credits": 3, "grade": "B+", "attendance": 88 },
+      { "code": "CS604", "name": "Network Security & Cryptography", "credits": 3, "grade": "A", "attendance": 92 },
+      { "code": "CS605", "name": "Software Engineering Lab", "credits": 2, "grade": "O", "attendance": 95 }
+    ],
+    "achievements": [
+      "Vice President - Women in Tech Society",
+      "Finalist at National Coding League"
+    ]
+  },
+  {
+    "rollNo": "AI401",
+    "name": "Rohan Verma",
+    "gender": "Male",
+    "dob": "2003-12-08",
+    "bloodGroup": "A+",
+    "email": "rohan.verma@student.edu",
+    "phone": "+91 98765 43212",
+    "department": "Artificial Intelligence & Data Science",
+    "degree": "B.Tech",
+    "batch": "2021 - 2025",
+    "semester": "8th Semester",
+    "cgpa": 9.42,
+    "attendance": 96.0,
+    "status": "Active",
+    "mentor": "Prof. Alok Sharma",
+    "guardian": {
+      "name": "Mahesh Verma",
+      "relation": "Father",
+      "phone": "+91 98765 00003"
+    },
+    "address": "B-12, Sector 62, Noida, Uttar Pradesh",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohan",
+    "courses": [
+      { "code": "AI801", "name": "Deep Reinforcement Learning", "credits": 4, "grade": "O", "attendance": 98 },
+      { "code": "AI802", "name": "Natural Language Processing", "credits": 4, "grade": "O", "attendance": 97 },
+      { "code": "AI803", "name": "Capstone Project II", "credits": 6, "grade": "A+", "attendance": 95 },
+      { "code": "AI804", "name": "AI Ethics & Governance", "credits": 3, "grade": "A", "attendance": 94 }
+    ],
+    "achievements": [
+      "Placed as AI Research Intern at Leading Tech Lab",
+      "Gold Medalist in University Mathematics Olympiad"
+    ]
+  },
+  {
+    "rollNo": "EC301",
+    "name": "Sneha Reddy",
+    "gender": "Female",
+    "dob": "2004-03-18",
+    "bloodGroup": "AB+",
+    "email": "sneha.reddy@student.edu",
+    "phone": "+91 98765 43213",
+    "department": "Electronics & Communication",
+    "degree": "B.Tech",
+    "batch": "2022 - 2026",
+    "semester": "6th Semester",
+    "cgpa": 8.35,
+    "attendance": 87.0,
+    "status": "Active",
+    "mentor": "Dr. K. Srinivas",
+    "guardian": {
+      "name": "Venkatesh Reddy",
+      "relation": "Father",
+      "phone": "+91 98765 00004"
+    },
+    "address": "Plot 105, Jubilee Hills, Hyderabad, Telangana",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sneha",
+    "courses": [
+      { "code": "EC601", "name": "VLSI Design", "credits": 4, "grade": "A", "attendance": 88 },
+      { "code": "EC602", "name": "Digital Signal Processing", "credits": 4, "grade": "B+", "attendance": 84 },
+      { "code": "EC603", "name": "Wireless Communication", "credits": 3, "grade": "A", "attendance": 89 },
+      { "code": "EC604", "name": "Embedded Systems Lab", "credits": 2, "grade": "A+", "attendance": 90 }
+    ],
+    "achievements": [
+      "Robotics Club Lead",
+      "Best Embedded Hardware Prototype 2024"
+    ]
+  },
+  {
+    "rollNo": "IT201",
+    "name": "Vikram Malhotra",
+    "gender": "Male",
+    "dob": "2004-11-30",
+    "bloodGroup": "O-",
+    "email": "vikram.m@student.edu",
+    "phone": "+91 98765 43214",
+    "department": "Information Technology",
+    "degree": "B.Tech",
+    "batch": "2022 - 2026",
+    "semester": "6th Semester",
+    "cgpa": 7.92,
+    "attendance": 82.5,
+    "status": "Active",
+    "mentor": "Prof. Meera Sen",
+    "guardian": {
+      "name": "Sanjay Malhotra",
+      "relation": "Father",
+      "phone": "+91 98765 00005"
+    },
+    "address": "78, Marine Lines, Mumbai, Maharashtra",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram",
+    "courses": [
+      { "code": "IT601", "name": "Web Technologies & Frameworks", "credits": 4, "grade": "A", "attendance": 85 },
+      { "code": "IT602", "name": "Information Storage & Retrieval", "credits": 3, "grade": "B", "attendance": 80 },
+      { "code": "IT603", "name": "Cyber Forensics", "credits": 3, "grade": "B+", "attendance": 82 },
+      { "code": "IT604", "name": "Full Stack Dev Lab", "credits": 2, "grade": "A+", "attendance": 88 }
+    ],
+    "achievements": [
+      "Open Source Contributor on GitHub",
+      "Organized Annual Tech Symposium"
+    ]
+  }
+]

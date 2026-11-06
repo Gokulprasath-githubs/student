@@ -1,0 +1,23 @@
+[
+  {
+    "username": "admin",
+    "password": "password123",
+    "name": "Prof. Alok Sharma",
+    "role": "Administrator",
+    "email": "admin@university.edu"
+  },
+  {
+    "username": "faculty",
+    "password": "faculty123",
+    "name": "Dr. Sunita Rao",
+    "role": "Faculty Advisor",
+    "email": "sunita.rao@university.edu"
+  },
+  {
+    "username": "student",
+    "password": "student123",
+    "name": "Student Demo",
+    "role": "Student",
+    "email": "demo.student@university.edu"
+  }
+]
