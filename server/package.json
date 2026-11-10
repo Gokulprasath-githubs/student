@@ -2,7 +2,7 @@
   "name": "student-portal-server",
   "version": "1.0.0",
   "description": "Backend API for Student Portal & Roll Number Lookup (SQLite SQL)",
-  "main": "server.js",
+  "main": "server.js",                                                                    
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
