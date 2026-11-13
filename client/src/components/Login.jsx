@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Lock, User, AlertCircle, ArrowRight, Loader2, GraduationCap, Eye, EyeOff } from 'lucide-react';
+import { Lock, User, AlertCircle, Loader2, GraduationCap, Eye, EyeOff } from 'lucide-react';
 
 export default function Login({ onLoginSuccess }) {
   const [username, setUsername] = useState('admin');
@@ -122,10 +122,7 @@ export default function Login({ onLoginSuccess }) {
                 <span>Authenticating...</span>
               </>
             ) : (
-              <>
-                <span>Sign In to Dashboard</span>
-                <ArrowRight size={18} />
-              </>
+              <span>Sign In</span>
             )}
           </button>
         </form>
