@@ -122,7 +122,7 @@ export default function Login({ onLoginSuccess }) {
                 <span>Authenticating...</span>
               </>
             ) : (
-              <span>Sign In</span>
+              <span>Sign In s</span>
             )}
           </button>
         </form>
